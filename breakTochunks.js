@@ -24,4 +24,5 @@ const majorityElement = (sentence, n) => {
       resultArr[index] = wordArr[key] + " ";
     }
   }
+  return resultArr;
 };
