@@ -30,4 +30,3 @@ const redundantBracket = str => {
   return 'NO';
 };
 
-console.log(redundantBracket("((a+b))"));
